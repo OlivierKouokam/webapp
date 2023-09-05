@@ -1,3 +1,5 @@
+#devops-training
+
 FROM ubuntu
 
 MAINTAINER OlivierKouokam (kouokamcarl@gmail.com)
